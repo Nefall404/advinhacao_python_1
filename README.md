@@ -1,0 +1,1 @@
+Olá este projeto será um jogo no qual deveremos acertar o número secreto. Este jogo será escrito em python.
